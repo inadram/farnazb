@@ -394,7 +394,7 @@
                     initGmap();
                 }
 
-                loadScript('http://maps.googleapis.com/maps/api/js?v=3&sensor=false&callback=initGmap&key=AIzaSyACVU53EUifSHuClWbu1a-eQuRn5pO7QnQ', 'gmapSrc');
+                loadScript('http://maps.googleapis.com/maps/api/js?key=AIzaSyA-zAEC_25UeX2o8FRjzy_SeaPeZAozj8M&v=3&sensor=false&callback=initGmap', 'gmapSrc');
             }
         })();
 
